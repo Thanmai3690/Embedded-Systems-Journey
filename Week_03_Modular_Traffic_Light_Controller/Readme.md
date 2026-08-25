@@ -30,13 +30,13 @@ The objective of this project is to:
 
 ## 🛠️ Components Used
 
-Arduino Uno 
-Red LED 
-Yellow LED 
-Green LED 
-220Ω Resistor 
-Breadboard
-Jumper Wires
+Arduino Uno, 
+Red LED, 
+Yellow LED, 
+Green LED, 
+220Ω Resistor, 
+Breadboard,
+Jumper Wires,
 
 ---
 
@@ -100,5 +100,5 @@ Controls the red traffic light state.
 Red LED    → ON
 Yellow LED → OFF
 Green LED  → OFF
-
+```
 [Open Wokwi Simulation](https://wokwi.com/projects/473142524392233985)
