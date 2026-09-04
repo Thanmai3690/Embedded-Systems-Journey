@@ -102,3 +102,8 @@ Yellow LED → OFF
 Green LED  → OFF
 ```
 [Open Wokwi Simulation](https://wokwi.com/projects/473142524392233985)
+
+
+## 🎥 Project Demo
+
+[▶️ Watch Project Demo](outputs/Modular_traffic_controller.mp4)
