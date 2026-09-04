@@ -86,3 +86,7 @@ Arduino Uno Pin 7
 ## Wokwi Simulation
 
 [Open the LED Chaser simulation in Wokwi](https://wokwi.com/projects/472508846074874881)
+
+## 🎥 Project Demo
+
+[▶️ Watch Project Demo](outputs/led_chaser.mp4)
