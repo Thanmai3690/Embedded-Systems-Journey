@@ -43,6 +43,8 @@ Arduino Uno Pin 9
 [Open the LED Blink simulation in Wokwi](https://wokwi.com/projects/471777984573856769)
 
 
+## 🎥 Project Demo
 
+[▶️ Watch Project Demo](Outputs/LED_BLINK-Project 1.mp4)
 
 
