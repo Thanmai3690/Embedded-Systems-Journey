@@ -4,7 +4,7 @@
 
 This is the first project of my one-year Embedded Systems learning journey.
 The project demonstrates how an Arduino Uno controls an LED using a digital GPIO pin.
-The circuit was designed and successfully tested using the Wokwi Arduino simulator.
+The circuit was designed and successfully tested using the Wokwi Arduino simulator and was then implemented and successfully tested on real Arduino Uno hardware.
 
 ## Objective
 The main objectives of this project are:
@@ -14,18 +14,22 @@ The main objectives of this project are:
 - Control an LED using HIGH and LOW states.
 - Understand basic timing using `delay()`.
 - Understand the basic Arduino program structure.
+- Understand software-to-hardware interaction.
+- Test and debug the circuit on real hardware.
 
 ## Platform
 - Arduino Uno
 - ATmega328P Microcontroller
 - Wokwi Simulator
 - Arduino C/C++
+- Arduino IDE
 
 ## Components
 - Arduino Uno
 - LED
 - 220Ω Resistor
 - Jumper Wires
+- Breadboard
 
 ## Circuit
 The LED is connected to digital pin 9 of the Arduino Uno through a 220Ω resistor.
