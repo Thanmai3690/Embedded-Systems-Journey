@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-This is the second project of my one-year Embedded Systems learning journey. The project demonstrates sequential control of six LEDs using an Arduino Uno. The LEDs create a chaser effect with changing speed, reverse movement, and a final ping-pong pattern. The circuit was designed and successfully tested using the Wokwi Arduino simulator.
+This is the second project of my one-year Embedded Systems learning journey. The project demonstrates sequential control of six LEDs using an Arduino Uno. The LEDs create a chaser effect with changing speed, reverse movement, and a final ping-pong pattern. The circuit was designed and successfully tested using the Wokwi Arduino simulator was then implemented and successfully tested on real Arduino Uno hardware.
+
 
 ## Objective
 
@@ -13,8 +14,10 @@ The main objectives of this project are:
 - Understand forward and reverse iteration.
 - Control LED timing using variables and `delay()`.
 - Implement acceleration and deceleration.
+- Implement forward and reverse LED movement.
 - Implement a ping-pong LED pattern.
 - Improve understanding of Arduino program structure.
+- Understand software-to-hardware interaction.
 
 ## Platform
 
@@ -22,6 +25,7 @@ The main objectives of this project are:
 - ATmega328P Microcontroller
 - Wokwi Simulator
 - Arduino C/C++
+- Arduino IDE
 
 ## Components
 
@@ -29,6 +33,7 @@ The main objectives of this project are:
 - 6 LEDs
 - 6 × 220Ω Resistors
 - Jumper Wires
+- Breadboard
 
 ## Circuit
 
