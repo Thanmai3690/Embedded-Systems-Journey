@@ -87,11 +87,11 @@ Buzzer: OFF
 ```
 
 ### 🔴 High Traffic
-``text
+
+```text
 Sensor Value: 701 – 1023
 Green Duration: 8 seconds
 Buzzer: ON
-
 ```
 
 The traffic signal follows the sequence:
