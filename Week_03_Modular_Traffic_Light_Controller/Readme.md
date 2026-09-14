@@ -12,6 +12,8 @@ The traffic light follows the sequence:
 
 The cycle then repeats continuously.
 
+The project was first designed and tested using the Wokwi Arduino simulator and was then implemented and successfully tested on real Arduino Uno hardware.
+
 ---
 
 ## 🎯 Objective
@@ -25,6 +27,7 @@ The objective of this project is to:
 - Control multiple LEDs using separate functions
 - Use a `for` loop to create a blinking effect
 - Understand the role of `setup()` and `loop()` in Arduino programming
+- Understand software-to-hardware interaction
 
 ---
 
@@ -34,7 +37,7 @@ Arduino Uno,
 Red LED, 
 Yellow LED, 
 Green LED, 
-220Ω Resistor, 
+3 X 220Ω Resistors, 
 Breadboard,
 Jumper Wires,
 
